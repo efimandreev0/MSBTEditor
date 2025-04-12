@@ -1,0 +1,8 @@
+//You can place here tags what you want to ignore.
+//e.x.: you need ignore tags <5.8> just Place here 5
+//or you need ignore <7.0:8:0>, so Place here 7
+7
+3
+15
+10
+0
